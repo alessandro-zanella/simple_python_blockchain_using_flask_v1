@@ -4,9 +4,8 @@
 
 
 ## Project Set-Up
-Get python3 and then pip with: 
-```
-python3 -m ensurepip
+get Python3, Pip (included with newer versions)
+! On Linux cvreate virtual environment, activate and add dependencies there
 ```
 See requirements.txt for dependencies
 Run the following command to install the dependencies
